@@ -72,6 +72,6 @@ This guide assumes you have Python installed.
 
 ## 👨‍💻 Author
 
-**Mohammad Ata**
-* B.Tech – Computer Science Engineering
+**Kausar Aajad**
+* B.Tech – CSE(AI&ML)
 * Bansal Institute of Engineering and Technology, Luckno
