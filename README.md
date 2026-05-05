@@ -74,4 +74,4 @@ This guide assumes you have Python installed.
 
 **Kausar Aajad**
 * B.Tech – CSE(AI&ML)
-* Bansal Institute of Engineering and Technology, Luckno
+* Bansal Institute of Engineering and Technology, Lucknow
