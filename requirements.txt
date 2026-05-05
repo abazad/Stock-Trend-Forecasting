@@ -1,0 +1,10 @@
+streamlit
+plotly
+kaleido
+yfinance
+pandas
+numpy
+matplotlib
+scikit-learn
+tensorflow-cpu
+keras
