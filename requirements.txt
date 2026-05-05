@@ -6,5 +6,4 @@ pandas
 numpy
 matplotlib
 scikit-learn
-tensorflow-cpu
 keras
